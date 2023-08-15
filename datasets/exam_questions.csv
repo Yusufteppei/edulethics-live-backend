@@ -1,0 +1,61 @@
+Order,Question,A,B,C,D,answer
+1,A. cylinder has height 4cm and base radius 5cm.its volume to 3 significant figure is  ,314.2cm2 ,31.42 cm2 ,251 4cm2 ,251cm2,B
+2,A girl walks 30m from a point P on  a bearing of 040 to a point Q. she   then walks 30m on a bearing of 140 to a point R. the bearing of R from P is ,90,50 ,45,40,A
+3,A man kept 6 black, 5 brown and 7 purple shirts in a drawer. What is the probability of his picking a purple shirt with his eyes close ,1/7,7/18 ,11/18 ,7/11,B
+4,Which of the following specified sets of data is not necessarily sufficient for the construction of a triangle? ,three angles  ,two sides and a right angle  ,two sides and an included angle ,three sides,A
+5,What is the coordinate of centre of the circle X2+y2+2x-4y =10?  ,(-1,-2),( 1, 2), (-1, 2) , (1, -2),D
+6,How many different three digit numbers can be formed using the integers 1 to 6 if no integer 1 to 6 if no integer occurs twice in a number? ,720,1260,2520,5040,B
+7,A business invested a total of N200,000 in two companies which paid dividends of 5% and 7% respectively. If the received a total of N11, 600 as dividend, how much did he invest at 5% ,N160,000 ,N140,000 ,N120,000 ,N80,000,C
+8,A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?. ,6cm ,7cm ,8cm    ,9cm      ,A
+9,In how many different ways can the letters of the word GEOLOGY be arranged in order? ,720,1260,2520,5040,C
+10,If the length of the sides of a right angled triangle are (3x + 1)cm, (3x – 1)cm and xcm, what is x ? ,2,6,18,12,D
+11,The interior angles of a pentagon are: 180o, 118o, 78o, 84o and  x. The value of x is: ,80o ,108o  ,120o  ,134o,A
+12,If  are the roots of equation 6 +5x –x2 =0, find  x,11,-11,1,-1,B
+13,In how many different ways can the letters of the word GEOLOGY be arranged in order? ,720,1260,2520,5040,C
+14,Solve for p in the following  equation given in base two  11(p+ 110) = 1001p   ,10,11,110,111,B
+15,Two fair dice are rolled. What is the probability that both show up the same number of point?,1/36 ,7/36 ,½ ,1/6,D
+16,Factorize 16(3x +2y)2 -25(a+2b)2  ,(12x + 8y -5a-10b)(12x+8y-5a-10b),20(3x +2y-a-2b)(3x+2y+a+1-2b) ,(12x +8y+5a+10b)(12x +8y-5a-10b),20(3x +2y+ a+2b)(3x + 2y+a+2b),A
+17,Given f(x) =3+x and g(x) =3-x, find g (f(x)),6,x,-x,0,B
+18,A regular polygon has each of it angles as 1600. What is the number of sides of the polygon?  ,18,    ,36,       ,9,     ,20,A
+19,The difference of two numbers is 10, while their product is 39. Find these numbers,– 3 and 10 or 13 and 10,,3 and – 10 or 3 and 13,  ,3 and – 3 or 3 and 13,     , – 3 and – 13 or   13 and  3 ,D
+20,A square tile measures 20cm by 20cm. How many of such tiles will cover a floor measuring 5m by 4m? ,500,400,320,250,A
+21,A cone has base radius 4cm and  height 3cm. The area of its curved surface is,12pcm2     ,20pcm2,24pcm2 ,15cm2,B
+22,Find the probability of selecting a figure which is parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium  ,3/5 ,2/5 ,1/5 ,1/5 ,A
+23,Factorize 6x2 – 14x – 12 ,2(x + 3)(3x – 2) ,6(x – 2)(x + 1) ,2(x – 3)(3x + 2) ,6(x + 2)(x – 1) ,C
+24,The value of (0.303)3 – (0.02)3 is ,0.019,0.0019,0.0268,0.000019,C
+25,The expression ax2 + bx takes the value 6 when x = 1 and 10 when x = 2. Find its value when  x = 5       ,10,12,6,.-10,A
+26,The volume of a certain sphere is numerically equal to twice its surface area. The diameter of the sphere is: ,6,9,12,,C
+27,A girl walks 30m from a point P on  a bearing of 040 to a point Q. she   then walks 30m on a bearing of 140 to a point R. the bearing of R from P is ,90,50 ,45,40,A
+28,The indefinite integral of the function f(x) = xcosx for any constant k, is ,–cos + sinx +k,  ,xsinx-cosx,   ,xsinx for any constant k,   ,x+sinx+cosx+k,C
+29,A man kept 6 black, 5 brown and 7 purple shirts in a drawer. What is the probability of his picking a purple shirt with his eyes close ,1/7,7/18 ,11/18 ,7/11,B
+30,A regular polygon has each of it angles as 1600. What is the number of sides of the polygon?  ,18,    ,36,       ,9,     ,20,A
+31,The average age of x pupils in a class is 14 years 2 months. A pupils of 15years 2 months joins the class and  the average age is increased  by one month. Find x.      ,12, , 6, ,11,,14,,C
+32,In a class, 37 students take a least one of chemistry, Economics and Government, 8 students take Chemistry, 19 take Economics and 25 take Government, 12 students take Economics and Government but nobody takes Chemistry and Economics. How many students take both chemistry and Government? ,3,4,5,6,A
+33,Z is partly constant and partly varies inversely as the square of d. when d = 1, z = 11 and when d = 2, z = 5. Find the value of z when d = 4.  ,2,3.5,5,5.5,B
+34,The expression ax2 + bx takes the value 6 when x = 1 and 10 when x = 2. Find its value when  x = 5       ,10,12,6,.-10,A
+35,What is the coordinate of centre of the circle X2+y2+2x-4y =10?  ,(-1,-2),( 1, 2), (-1, 2) , (1, -2),D
+36,The value of (0.303)3 – (0.02)3 is ,0.019,0.0019,0.0268,0.000019,C
+37,When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N 120 is reduced by 5. The present price of an egg is ,N 6. ,N 7  ,N 8,N10,C
+38,A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became ,N180 ,N 165 ,N15   ,N 200,D
+39,The indefinite integral of the function f(x) = xcosx for any constant k, is ,–cos + sinx +k,  ,xsinx-cosx,   ,xsinx for any constant k,   ,x+sinx+cosx+k,C
+40,If 32y – 6(3y) = 27, find y ,3,-1,2,-3,C
+41,Evaluate x in base 3 if 41x-22x=17x. ,11,8,12,22,D
+42,If  are the roots of equation 6 +5x –x2 =0, find  x,11,-11,1,-1,B
+43,All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. How many learn Igbo only?   ,45,30,15,60,A
+44,A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?. ,6cm ,7cm ,8cm    ,9cm      ,A
+45,Find the probability that a number selected at random 40 to 50 is a prime number   ,3/11,5/11,5/10,4/10,A
+46,Solve for p in the following  equation given in base two  11(p+ 110) = 1001p   ,10,11,110,111,B
+47,Two fair dice are rolled. What is the probability that both show up the same number of point?,1/36 ,7/36 ,½ ,1/6,D
+48,Two fair dice are rolled. What is the probability that both show up the same number of point?,1/36 ,7/36 ,½ ,1/6,D
+49,Factorize 16(3x+2y)2-25 (a+2b)2,(12x +8y+5a+10b)(12x+8y-5a-10b)    ,(12x+8y-5a-10b) (12x+8y-5a-10b),    ,20 (3x +2y-a-2b)(3x+2y+a+2b)  ,20(3x+2y+a+2b) (3x+2y+a+2b).,A
+50,A square tile measures 20cm by 20cm. How many of such tiles will cover a floor measuring 5m by 4m? ,500,400,320,250,A
+51,A bearing of 310o, expressed as a compass bearing is: ,N50oW  ,N40oW  ,S40oW  ,S50oW,A
+52,When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N 120 is reduced by 5. The present price of an egg is ,N 6. ,N 7  ,N 8,N10,C
+53,How long will take a sum of money invested at 8% simple interest to double the original sum? ,8 years  ,10.5years  ,(1years ,12.5years,D
+54,Find the probability that a number selected at random 40 to 50 is a prime number   ,3/11,5/11,5/10,4/10,A
+55,Given f(x) =3+x and g(x) =3-x, find g (f(x)),6,x,-x,0,B
+56,When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N 120 is reduced by 5. The present price of an egg is ,N 6. ,N 7  ,N 8,N10,C
+57,1.3logx+logy =3. Then, y is  ,(10/x)3 ,(x/10)3  ,(x/10)-3 ,(10/x)1-1/3 ,A
+58,Find the probability of selecting a figure which is parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium  ,3/5 ,2/5 ,1/5 ,1/5 ,A
+59,Solve for p in the following  equation given in base two  11(p+ 110) = 1001p   ,10,11,110,111,B
+60,Solve 4x2 +20x -24 =0, 1, 6, -1, -6,6, -1,-6, 1,D

@@ -1,0 +1,101 @@
+Order,Question,A,B,C,D,answer
+1,The volume of a certain sphere is numerically equal to twice its surface area. The diameter of the sphere is: ,6,9,12,,C
+2,Given f(x) =3+x and g(x) =3-x, find g (f(x)),6,x,-x,0,B
+3,The expression ax2 + bx takes the value 6 when x = 1 and 10 when x = 2. Find its value when  x = 5       ,10,12,6,.-10,A
+4,All the vertices of an isosceles triangle lie on a circle and each of the base angles  of the triangle is 65o. The angle subtended at the centre of the circle by the base of the triangle is: ,130o  ,115o  ,50o  ,65o,C
+5,If x= 0.0012 + 0.00074 + 0.003174, what is the difference between x to 2 decimal places and x to 1 significant figure? ,0.01,0.0051,0.1,0.005,D
+6,A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is with replacement: ,0.9,1,0.47,0.49,D
+7,When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N 120 is reduced by 5. The present price of an egg is ,N 6. ,N 7  ,N 8,N10,C
+8,Evaluate x in base 3 if 41x-22x=17x. ,11,8,12,22,D
+9,What is the coordinate of centre of the circle X2+y2+2x-4y =10?  ,(-1,-2),( 1, 2), (-1, 2) , (1, -2),D
+10,The expression ax2 + bx takes the value 6 when x = 1 and 10 when x = 2. Find its value when  x = 5       ,10,12,6,.-10,A
+11,If the length of the sides of a right angled triangle are (3x + 1)cm, (3x – 1)cm and xcm, what is x ? ,2,6,18,12,D
+12,Which of the following specified sets of data is not necessarily sufficient for the construction of a triangle? ,three angles  ,two sides and a right angle  ,two sides and an included angle ,three sides,A
+13,Solve for p in the following  equation given in base two  11(p+ 110) = 1001p   ,10,11,110,111,B
+14,A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became ,N180 ,N 165 ,N15   ,N 200,D
+15,How many different three digit numbers can be formed using the integers 1 to 6 if no integer 1 to 6 if no integer occurs twice in a number? ,720,1260,2520,5040,B
+16,Solve 4x2 +20x -24 =0, 1, 6, -1, -6,6, -1,-6, 1,D
+17,What is the coordinate of centre of the circle X2+y2+2x-4y =10?  ,(-1,-2),( 1, 2), (-1, 2) , (1, -2),D
+18,A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became ,N180 ,N 165 ,N15   ,N 200,D
+19,A number of pencils were shared out among peter, Paul and Audu in the ratio 2:3:5 respectively. If Peter got 5, how many were shared? ,15,25,30,50,B
+20,If x= 0.0012 + 0.00074 + 0.003174, what is the difference between x to 2 decimal places and x to 1 significant figure? ,0.01,0.0051,0.1,0.005,D
+21,A man kept 6 black, 5 brown and 7 purple shirts in a drawer. What is the probability of his picking a purple shirt with his eyes close ,1/7,7/18 ,11/18 ,7/11,B
+22,If  are the roots of equation 6 +5x –x2 =0, find  x,11,-11,1,-1,B
+23,The indefinite integral of the function f(x) = xcosx for any constant k, is ,–cos + sinx +k,  ,xsinx-cosx,   ,xsinx for any constant k,   ,x+sinx+cosx+k,C
+24,The journey from Lagos to Ibadan usually takes a motorist 1 hour 30 minutes. By increasing his average speed by 20km/hr, the motorist saves 15 minutes. His usual speed, in Km/hr is ,100,90,85,80,A
+25,Solve the equation  = 25x+4 ,-4, 2 , -4,-2 ,4, -2,4, 2,A
+26,Two fair dice are rolled. What is the probability that both show up the same number of point?,1/36 ,7/36 ,½ ,1/6,D
+27,If P varies inversely as V and V varies directly as R2, find the relationship between P and R given that R = 7 when P = 2 ,P = 98R2 ,PR2 = 98 ,P2R = 89 ,P = 1/98R ,B
+28,The indefinite integral of the function f(x) = xcosx for any constant k, is ,–cos + sinx +k,  ,xsinx-cosx,   ,xsinx for any constant k,   ,x+sinx+cosx+k,C
+29,A number of pencils were shared out among peter, Paul and Audu in the ratio 2:3:5 respectively. If Peter got 5, how many were shared? ,15,25,30,50,B
+30,The average age of x pupils in a class is 14 years 2 months. A pupils of 15years 2 months joins the class and  the average age is increased  by one month. Find x.      ,12, , 6, ,11,,14,,C
+31,Evaluate x in base 3 if 41x-22x=17x. ,11,8,12,22,D
+32,If  are the roots of equation 6 +5x –x2 =0, find  x,11,-11,1,-1,B
+33,All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. How many learn Igbo only?   ,45,30,15,60,A
+34,A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became ,N180 ,N 165 ,N15   ,N 200,D
+35,Evaluate x in base 3 if 41x-22x=17x. ,11,8,12,22,D
+36,If 7 and 189 are the first and fourth terms of a geometric progression respectively find the sum of the first three terms of the progression ,182,180,91,63,C
+37,Factorize 16(3x+2y)2-25 (a+2b)2,(12x +8y+5a+10b)(12x+8y-5a-10b)    ,(12x+8y-5a-10b) (12x+8y-5a-10b),    ,20 (3x +2y-a-2b)(3x+2y+a+2b)  ,20(3x+2y+a+2b) (3x+2y+a+2b).,A
+38,A business invested a total of N200,000 in two companies which paid dividends of 5% and 7% respectively. If the received a total of N11, 600 as dividend, how much did he invest at 5% ,N160,000 ,N140,000 ,N120,000 ,N80,000,C
+39,Solve for p in the following  equation given in base two  11(p+ 110) = 1001p   ,10,11,110,111,B
+40,With replacement ,0.9,,1, ,0.4,,0.49,D
+41,If  are the roots of equation 6 +5x –x2 =0, find  x,11,-11,1,-1,B
+42,How long will take a sum of money invested at 8% simple interest to double the original sum? ,8 years  ,10.5years  ,(1years ,12.5years,D
+43,If 32y – 6(3y) = 27, find y ,3,-1,2,-3,C
+44,What is the 15th term of the sequence -3, 2,7,…? ,65,66,68,67,D
+45,Given f(x) =3+x and g(x) =3-x, find g (f(x)),6,x,-x,0,B
+46,The indefinite integral of the function f(x) = xcosx for any constant k, is ,–cos + sinx +k,  ,xsinx-cosx,   ,xsinx for any constant k,   ,x+sinx+cosx+k,C
+47,Solve for p in the following  equation given in base two  11(p+ 110) = 1001p   ,10,11,110,111,B
+48,A cone has base radius 4cm and  height 3cm. The area of its curved surface is,12pcm2     ,20pcm2,24pcm2 ,15cm2,B
+49,All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. 13. How many learn both languages? ,60,45,15,120,C
+50,The interior angles of a pentagon are: 180o, 118o, 78o, 84o and  x. The value of x is: ,80o ,108o  ,120o  ,134o,A
+51,When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N 120 is reduced by 5. The present price of an egg is ,N 6. ,N 7  ,N 8,N10,C
+52,How many different three digit numbers can be formed using the integers 1 to 6 if no integer 1 to 6 if no integer occurs twice in a number? ,720,1260,2520,5040,B
+53,A regular polygon has each of it angles as 1600. What is the number of sides of the polygon?  ,18,    ,36,       ,9,     ,20,A
+54,Find the probability that a number selected at random 40 to 50 is a prime number   ,3/11,5/11,5/10,4/10,A
+55,Find the positive number n such that thrice its square is equal to twelve time the number ,1,4,2,5,B
+56,Given f(x) =3+x and g(x) =3-x, find g (f(x)),6,x,-x,0,B
+57,If x= 0.0012 + 0.00074 + 0.003174, what is the difference between x to 2 decimal places and x to 1 significant figure? ,0.01,0.0051,0.1,0.005,D
+58,If 32y – 6(3y) = 27, find y ,3,-1,2,-3,C
+59,Without replacement ,0.1, ,0.47, ,0.42,   ,0.21,B
+60,Factorize 16(3x+2y)2-25 (a+2b)2,(12x +8y+5a+10b)(12x+8y-5a-10b)    ,(12x+8y-5a-10b) (12x+8y-5a-10b),    ,20 (3x +2y-a-2b)(3x+2y+a+2b)  ,20(3x+2y+a+2b) (3x+2y+a+2b).,A
+61,A girl walks 30m from a point P on  a bearing of 040 to a point Q. she   then walks 30m on a bearing of 140 to a point R. the bearing of R from P is ,90,50 ,45,40,A
+62,In a class, 37 students take a least one of chemistry, Economics and Government, 8 students take Chemistry, 19 take Economics and 25 take Government, 12 students take Economics and Government but nobody takes Chemistry and Economics. How many students take both chemistry and Government? ,3,4,5,6,A
+63,Two fair dice are rolled. What is the probability that both show up the same number of point?,1/36 ,7/36 ,½ ,1/6,D
+64,Factorize 16(3x +2y)2 -25(a+2b)2  ,(12x + 8y -5a-10b)(12x+8y-5a-10b),20(3x +2y-a-2b)(3x+2y+a+1-2b) ,(12x +8y+5a+10b)(12x +8y-5a-10b),20(3x +2y+ a+2b)(3x + 2y+a+2b),A
+65,A regular polygon has each of it angles as 1600. What is the number of sides of the polygon?  ,18,    ,36,       ,9,     ,20,A
+66,Expand the expression (x2-2x-3)(x2+x+1).  ,x4-4x2-5x-3  ,–x3-4x2+5x-3,x4-x3-4x2-5x-3  ,x4-4x2-5x -3,C
+67,A man kept 6 black, 5 brown and 7 purple shirts in a drawer. What is the probability of his picking a purple shirt with his eyes close ,1/7,7/18 ,11/18 ,7/11,B
+68,An (n-2)2 sided figure has n diagonal, find the number n of diagonal for a 25 sided Figure   ,8,7,6,10,B
+69,A cyclist rode for 30minutes at xhkm/hr. if the total distance covered is less than 60km, what is the range of values for x? ,x<14   ,x<20  ,x<29  ,x< 28,D
+70,Find the positive number n such that thrice its square is equal to twelve time the number ,1,4,2,5,B
+71,Without replacement ,0.1, ,0.47, ,0.42,   ,0.21,B
+72,If P varies inversely as V and V varies directly as R2, find the relationship between P and R given that R = 7 when P = 2 ,P = 98R2 ,PR2 = 98 ,P2R = 89 ,P = 1/98R ,B
+73,In a class, 37 students take a least one of chemistry, Economics and Government, 8 students take Chemistry, 19 take Economics and 25 take Government, 12 students take Economics and Government but nobody takes Chemistry and Economics. How many students take both chemistry and Government? ,3,4,5,6,A
+74,If x= 0.0012 + 0.00074 + 0.003174, what is the difference between x to 2 decimal places and x to 1 significant figure? ,0.01,0.0051,0.1,0.005,D
+75,The value of (0.303)3 – (0.02)3 is ,0.019,0.0019,0.0268,0.000019,C
+76,If x= 0.0012 + 0.00074 + 0.003174, what is the difference between x to 2 decimal places and x to 1 significant figure? ,0.01,0.0051,0.1,0.005,D
+77,A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?. ,6cm ,7cm ,8cm    ,9cm      ,A
+78,Without replacement ,0.1, ,0.47, ,0.42,   ,0.21,B
+79,Find the probability that a number selected at random 40 to 50 is a prime number   ,3/11,5/11,5/10,4/10,A
+80,Solve 4x2 +20x -24 =0, 1, 6, -1, -6,6, -1,-6, 1,D
+81,A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became ,N180 ,N 165 ,N15   ,N 200,D
+82,Factorize 16(3x +2y)2 -25(a+2b)2  ,(12x + 8y -5a-10b)(12x+8y-5a-10b),20(3x +2y-a-2b)(3x+2y+a+1-2b) ,(12x +8y+5a+10b)(12x +8y-5a-10b),20(3x +2y+ a+2b)(3x + 2y+a+2b),A
+83,A number of pencils were shared out among peter, Paul and Audu in the ratio 2:3:5 respectively. If Peter got 5, how many were shared? ,15,25,30,50,B
+84,How many different three digit numbers can be formed using the integers 1 to 6 if no integer 1 to 6 if no integer occurs twice in a number? ,720,1260,2520,5040,B
+85,Solve the equation 3x+1 = 271-x  ,1/2,-1/2,3/4,-3/4,A
+86,Given f(x) =3+x and g(x) =3-x, find g (f(x)),6,x,-x,0,B
+87,A number of pencils were shared out among peter, Paul and Audu in the ratio 2:3:5 respectively. If Peter got 5, how many were shared? ,15,25,30,50,B
+88,In a survey of 100 students in an institution, 80 students speak Yoruba, 22 speak Igbo, while 6 speak neither Igbo nor Yoruba. How many students speak Yoruba and Igbo? ,96,8,64,12,B
+89,An (n-2)2 sided figure has n diagonal, find the number n of diagonal for a 25 sided Figure   ,8,7,6,10,B
+90,Two fair dice are rolled. What is the probability that both show up the same number of point?,1/36 ,7/36 ,½ ,1/6,D
+91,The trigonometric expression cos2A + sin 2A can be written as:  ,cosA(cosA + sinA)  ,B.cos2A + sin2A – 2sinAcosA,  ,2sinAcosA + cos2A + sin2A,  ,D.cos2A +sinA  – 2sinAcosA,C
+92,A bearing of 310o, expressed as a compass bearing is: ,N50oW  ,N40oW  ,S40oW  ,S50oW,A
+93,In a survey of 100 students in an institution, 80 students speak Yoruba, 22 speak Igbo, while 6 speak neither Igbo nor Yoruba. How many students speak Yoruba and Igbo? ,96,8,64,12,B
+94,The value of (0.303)3 – (0.02)3 is ,0.019,0.0019,0.0268,0.000019,C
+95,Find the probability that a number selected at random 40 to 50 is a prime number   ,3/11,5/11,5/10,4/10,A
+96,The expression a 3 + b 3 is equal  to ,(a2 +b)(a-ab+b2 ),(a+b)(a2 –ab+b2 )  ,(a-b2)(a2-  ab+b),(a­-b)(a2+ab+b2),B
+97,A bearing of 310o, expressed as a compass bearing is: ,N50oW  ,N40oW  ,S40oW  ,S50oW,A
+98,If 7 and 189 are the first and fourth terms of a geometric progression respectively find the sum of the first three terms of the progression ,182,180,91,63,C
+99,Find the probability that a number selected at random 40 to 50 is a prime number   ,3/11,5/11,5/10,4/10,A
+100,Find the positive number n such that thrice its square is equal to twelve time the number ,1,4,2,5,B
