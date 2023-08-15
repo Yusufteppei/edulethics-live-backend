@@ -22,9 +22,9 @@ django-storages==1.13.2
 django-summernote==0.8.20.0
 django-templated-mail==1.1.1
 djangorestframework==3.14.0
-djangorestframework-api-key==2.3.0
-djangorestframework-simplejwt==5.2.2
-djoser==2.1.0
+djangorestframework-api-key
+djangorestframework-simplejwt
+djoser
 dnspython==2.3.0
 et-xmlfile==1.1.0
 gevent==22.10.2
