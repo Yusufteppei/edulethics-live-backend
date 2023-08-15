@@ -1,9 +1,0 @@
-import pandas as pd
-
-import os
-import django
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "edulethics.settings")
-django.setup()
-
-from customer_relations.models import *
-
